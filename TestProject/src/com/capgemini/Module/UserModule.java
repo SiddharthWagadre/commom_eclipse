@@ -12,4 +12,10 @@ public class UserModule {
 	public void show() {
 		System.out.println("dev 2: HII BHai");
 	}
+	
+	public void display()
+	{
+		System.out.println("avinash dada");
+	}
 }
+
