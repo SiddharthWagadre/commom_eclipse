@@ -6,4 +6,7 @@ public class UserModule {
 		System.out.println("login functionality");
 	}
 
+	public void registration() {
+		System.out.println("Register Functionality");
+	}
 }
