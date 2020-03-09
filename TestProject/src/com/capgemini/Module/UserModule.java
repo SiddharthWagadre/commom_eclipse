@@ -9,4 +9,7 @@ public class UserModule {
 	public void registration() {
 		System.out.println("Register Functionality!!!!!");
 	}
+	public void show() {
+		System.out.println("dev 2: HII BHai");
+	}
 }
